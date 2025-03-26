@@ -1,0 +1,81 @@
+{
+  "projects": [
+    {
+      "name": "zippyBot",
+      "description": " Built an AI-powered job bot that helps graduate students and developers find jobs seamlessly.",
+      "image": "/zippy.PNG",
+      "href": "https://zippy-bot.vercel.app/",
+      
+      "tags": [
+        "Javascript",
+        "React",
+        "TailwindCSS",
+        "Express.js",
+        "DiscordApi",
+        "Docker",
+        "MongoDb"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://zippy-bot.vercel.app/",
+          "icon": "globe"
+        },
+        {
+          "name": "Source",
+          "href": "https://github.com/Saranheroic/ZippyBot",
+          "icon": "github"
+        }
+      ]
+      
+    },
+    {
+      "name": "Nike Frontend Design",
+      "description": "Designed a sleek and responsive landing page inspired by Nike’s modern design language.",
+      "href": "https://saran-nike.netlify.app/",
+      "image": "/Nike.PNG",
+      "tags": [
+        "React",
+        "TailwindCSS",
+        "Javascript"
+      ],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://saran-nike.netlify.app/",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "Simon Game",
+      "description": "Established a Simon game and Implemented game logic to challenge users with increasing sequences.🚀",
+      "href": "https://saranheroic.github.io/Simon-Game/",
+      "image": "/simon game.PNG",
+      "tags": ["Javascript","CSS","HTML"],
+      "links": [
+        {
+          "name": "Website",
+          "href": "https://saranheroic.github.io/Simon-Game/",
+          "icon": "globe"
+        }
+      ]
+    },
+    {
+      "name": "emotion-detector(Final Year)",
+      "description": "Developed an Emotion Detector using Keras and CNN architecture, trained on a labeled dataset containing seven basic emotions.",
+      "href": "https://github.com/Saranheroic/emotion-detector-PY",
+      "image": "/finalyear.png",
+      "tags": ["Jupyter NoteBook","Python"],
+      "links": [
+        {
+          "name": "Source",
+          "href": "https://github.com/Saranheroic/emotion-detector-PY",
+          "icon": "github"
+        }
+    
+      ]
+    }
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "education": [
+    {
+      "name": "Prathyusha Engineering Colleg (Anna University)",
+      "href": "https://prathyusha.edu.in/",
+      "title": "BE in Computer Science",
+      "logo": "/pecLogo.jpg",
+      "start": "June 2019",
+      "end": "June 2023",
+      "description": [
+        "Graduated with a Major in Computer Science",
+        "President of a National level technical symposium at PEC",
+        "Top 1% coder at PEC"
+      ],
+      "links": [
+        {
+          "name": "Final Year Project",
+          "href": "https://github.com/Saranheroic/emotion-detector-PY",
+          "icon": "globe"
+        }
+        
+      ]
+    },
+    {
+      "name": "Sri R.M. Jain Vidhyapeeth Matric. Hr. Sec. School",
+      "href": "http://www.srmjv.com/Vidhyapeeth",
+      "title": "12th Grade Major in Computer Science",
+      "logo": "/srmjv.png",
+      "start": "June 2017",
+      "end": "May 2019"
+    }
+  ]
+}

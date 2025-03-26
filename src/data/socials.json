@@ -1,0 +1,19 @@
+{
+  "socials": [
+    {
+      "name": "LinkedIn",
+      "href": "https://www.linkedin.com/in/sarannagarajan/",
+      "icon": "linkedin"
+    },
+    {
+      "name": "GitHub",
+      "href": "https://github.com/Saranheroic",
+      "icon": "github"
+    },
+    {
+      "name": "Email",
+      "href": "mailto:sarann2302@gmail.com",
+      "icon": "mail"
+    }
+  ]
+}
